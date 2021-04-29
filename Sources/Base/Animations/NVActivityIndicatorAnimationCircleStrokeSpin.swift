@@ -64,7 +64,7 @@ class NVActivityIndicatorAnimationCircleStrokeSpin: NVActivityIndicatorAnimation
             x: (layer.bounds.width - size.width) / 2,
             y: (layer.bounds.height - size.height) / 2,
             width: size.width,
-            height: size.height
+            height: 5
         )
 
         circle.frame = frame
